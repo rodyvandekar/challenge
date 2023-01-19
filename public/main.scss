@@ -1,1 +1,7 @@
 @import "scss/qr";
+
+$font-family: 'Outfit', sans-serif;
+body{
+    background-color: $dark_blue;
+    font-family: $font-family;
+}
